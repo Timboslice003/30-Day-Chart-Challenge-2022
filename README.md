@@ -19,3 +19,6 @@ from data located behind a paywall will not be shared.
 
 # Day 4: Flora
 ![Day_4_Flora](https://user-images.githubusercontent.com/105609020/168523412-e176c871-ca24-4958-8936-562533c6000d.png)
+
+# Day 5: Slope
+![Day_5_Slope](https://user-images.githubusercontent.com/105609020/168697682-5981f0fa-aedc-4c9b-a031-218a88ad84dd.png)
