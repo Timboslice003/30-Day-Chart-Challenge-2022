@@ -24,3 +24,7 @@ are open sourced and are available for public use.
 
 # Day 5: Slope
 ![Day_5_Slope](https://user-images.githubusercontent.com/105609020/168697682-5981f0fa-aedc-4c9b-a031-218a88ad84dd.png)
+
+# Day 6: Data Day
+![Day_6_Data_Day](https://user-images.githubusercontent.com/105609020/168699087-82c3c720-35eb-4bb4-aa41-6fe6adfa811a.png)
+
