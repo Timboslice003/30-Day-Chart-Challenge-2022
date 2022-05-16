@@ -54,7 +54,7 @@ myplot <- qbs_in_sb %>% ggplot(aes(x = 1, fill = as.factor(category))) +
   theme(legend.position = 'none',
         plot.caption = element_text(color = 'white', face = 'bold',
                                     size = 18, hjust = .1, vjust = 5.5)) +
-  labs(caption = '@Timboslice003 | NFLfastR') +
+  labs(caption = '@Timboslice003 | NFLverse') +
   geom_image(aes(x = 1.2, y = 2.75, image = team_league_logo[1]), size = .15)+
   annotate(geom = 'text', x = 1.05, y = 4.25, label = 'Other (6/22)', 
            size = 5, color = 'white') +
