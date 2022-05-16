@@ -1,3 +1,7 @@
+#This code plots two different metrics of evaluating an offense's
+#success when running the ball: Expected Points Added per Play (EPA/Rush) 
+#and PFF rushing grades, which requires a subscription.
+
 library(nflfastR)
 library(tidyverse)
 library(ggplot2)
