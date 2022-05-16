@@ -3,10 +3,12 @@ All code and outputs for the 2022 #30DayChartChallenge
 
 # Acknowledgements
 I used data from NFLverse, CFBfastR, Pro Football Reference,
-sportsoddshistory.com, and Pro Football Focus.
+sportsoddshistory.com, Wikipedia, and Pro Football Focus.
 
-Some of these data sources require a subscription or API key. Excel files used
-from data located behind a paywall will not be shared.
+Pro Football Focus data requires a subscription and will not 
+shared. CFBfastR requires an API key (it's free). There is a
+walkthrough how to use it on their website. All of the rest
+are opened source and are available for public use.
 
 # Day 1: Part to Whole
 ![Day_1_Part_to_Whole](https://user-images.githubusercontent.com/105609020/168524799-d84db03d-09b9-4627-8209-579ae313e27f.png)
