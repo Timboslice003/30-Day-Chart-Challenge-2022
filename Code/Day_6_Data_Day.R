@@ -37,5 +37,5 @@ Miami %>% ggplot(aes(x = team_abbr, y = undefeated)) +
   geom_image(aes(image = team_logo_wikipedia), size = .1, by = 'width', asp = 16/9)
 
 #Save
-ggsave('Day_6_Data_Day.png', width = 14, height = 10, dpi = 'retina')  
+#ggsave('Day_6_Data_Day.png', width = 14, height = 10, dpi = 'retina')  
 
