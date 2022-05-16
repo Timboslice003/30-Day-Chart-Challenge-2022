@@ -2,7 +2,7 @@
 All code and outputs for the 2022 #30DayChartChallenge
 
 # Acknowledgements
-I used data from NFLfastR, NFLverse, CFBfastR, Pro Football Reference,
+I used data from NFLverse, CFBfastR, Pro Football Reference,
 sportsoddshistory.com, and Pro Football Focus.
 
 Some of these data sources require a subscription or API key. Excel files used
