@@ -9,7 +9,7 @@ Some of these data sources require a subscription or API key. Excel files used
 from data located behind a paywall will not be shared.
 
 # Day 1: Part to Whole
-![Uploading Day_1_Part_to_Whole.png…]()
+![Day_1_Part_to_Whole](https://user-images.githubusercontent.com/105609020/168524799-d84db03d-09b9-4627-8209-579ae313e27f.png)
 
 # Day 2: Pictogram
 ![Day_2_Pictogram](https://user-images.githubusercontent.com/105609020/168520504-4f15320e-2009-4491-93c8-2a8204a1a299.png)
