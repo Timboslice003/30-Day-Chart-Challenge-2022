@@ -48,4 +48,4 @@ games %>% ggplot(aes(x = season, y = score)) +
        caption = 'Graph: @Timboslice003 | Data: NFLverse')
 
 #Save
-ggsave('Day_3_Historical.png', width = 17, height = 10, dpi = 'retina')
+#ggsave('Day_3_Historical.png', width = 17, height = 10, dpi = 'retina')
