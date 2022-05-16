@@ -28,3 +28,6 @@ are open sourced and are available for public use.
 # Day 6: Data Day
 ![Day_6_Data_Day](https://user-images.githubusercontent.com/105609020/168699087-82c3c720-35eb-4bb4-aa41-6fe6adfa811a.png)
 
+# Day 7: Physical
+![Day_7_Physical](https://user-images.githubusercontent.com/105609020/168699971-d4ec32a8-6669-4b8a-aacf-2018628c0af0.png)
+
