@@ -15,3 +15,6 @@ from data located behind a paywall will not be shared.
 # Day 2: Pictogram
 ![Day_2_Pictogram](https://user-images.githubusercontent.com/105609020/168520504-4f15320e-2009-4491-93c8-2a8204a1a299.png)
 
+# Day 3: Historical
+![Day_3_Historical](https://user-images.githubusercontent.com/105609020/168522040-208002a8-7515-419e-8b6e-e06b3514f99e.png)
+
