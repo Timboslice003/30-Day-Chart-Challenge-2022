@@ -35,4 +35,6 @@ are open sourced and are available for public use.
 # Day 8: Mountains
 ![Day_8_Mountains](https://user-images.githubusercontent.com/105609020/168701827-bcc1ed78-0369-446f-b20e-9ef4a246ebaa.png)
 
+# Day 9: Statistics
+![Day_9_Statistics](https://user-images.githubusercontent.com/105609020/168732577-158ee9f7-02df-45bd-830e-9efba5cd6203.png)
 
