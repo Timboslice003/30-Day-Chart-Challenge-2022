@@ -28,7 +28,6 @@ are open sourced and are available for public use.
 # Day 6: Data Day
 ![Day_6_Data_Day](https://user-images.githubusercontent.com/105609020/168701812-718e6e68-aa06-43d0-b620-4cae5f225500.png)
 
-
 # Day 7: Physical
 ![Day_7_Physical](https://user-images.githubusercontent.com/105609020/168699971-d4ec32a8-6669-4b8a-aacf-2018628c0af0.png)
 
@@ -43,4 +42,7 @@ are open sourced and are available for public use.
 
 # Day 11: Circular
 ![Day_11_Circular](https://user-images.githubusercontent.com/105609020/168735331-788f94c0-97d1-4481-a5ab-bf63aa7ec2e3.png)
+
+# Day 12: Theme Day
+![Day_12_Theme_Day](https://user-images.githubusercontent.com/105609020/168737770-1e096a6a-7520-4b63-97de-56f3ca426d6f.png)
 
