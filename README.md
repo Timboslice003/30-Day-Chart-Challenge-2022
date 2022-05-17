@@ -26,11 +26,13 @@ are open sourced and are available for public use.
 ![Day_5_Slope](https://user-images.githubusercontent.com/105609020/168697682-5981f0fa-aedc-4c9b-a031-218a88ad84dd.png)
 
 # Day 6: Data Day
-![Day_6_Data_Day](https://user-images.githubusercontent.com/105609020/168699087-82c3c720-35eb-4bb4-aa41-6fe6adfa811a.png)
+![Day_6_Data_Day](https://user-images.githubusercontent.com/105609020/168701812-718e6e68-aa06-43d0-b620-4cae5f225500.png)
+
 
 # Day 7: Physical
 ![Day_7_Physical](https://user-images.githubusercontent.com/105609020/168699971-d4ec32a8-6669-4b8a-aacf-2018628c0af0.png)
 
 # Day 8: Mountains
-![Day_8_Mountains](https://user-images.githubusercontent.com/105609020/168701361-3dac71f1-57c8-43a5-a4c6-3c3bd43078e4.png)
+![Day_8_Mountains](https://user-images.githubusercontent.com/105609020/168701827-bcc1ed78-0369-446f-b20e-9ef4a246ebaa.png)
+
 
