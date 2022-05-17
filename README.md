@@ -31,3 +31,5 @@ are open sourced and are available for public use.
 # Day 7: Physical
 ![Day_7_Physical](https://user-images.githubusercontent.com/105609020/168699971-d4ec32a8-6669-4b8a-aacf-2018628c0af0.png)
 
+# Day 8: Mountains
+![Day_8_Mountains](https://user-images.githubusercontent.com/105609020/168701130-c396785e-88d5-4bed-94b8-d9e2a9703b94.png)
