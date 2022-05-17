@@ -23,7 +23,7 @@ Miami %>% ggplot(aes(x = team_abbr, y = undefeated)) +
   scale_x_discrete(labels = c('Miami','Every Other Team')) +
   labs(title = 'Undefeated Seasons in NFL History',
        subtitle = 'Regular and Postseason',
-       caption = '#NFLfastR| Plot: @Timboslice003',
+       caption = 'NFLverse| Plot: @Timboslice003',
        y = 'Undefeated Seasons') +
   theme(plot.title = element_text(color = 'orange', size = 24,
                                   face = 'bold', hjust = .5),
