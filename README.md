@@ -55,3 +55,5 @@ are open sourced and are available for public use.
 # Day 15: Multivariate
 ![Day_15_Multivariate](https://user-images.githubusercontent.com/105609020/169419942-9e4423e1-c3e8-421c-bb81-51df31a6a637.png)
 
+# Day 16: Environment
+![Day_16_Environment](https://user-images.githubusercontent.com/105609020/169421532-49fa4e4f-baa5-4230-a3bc-e251038cd4f1.png)
