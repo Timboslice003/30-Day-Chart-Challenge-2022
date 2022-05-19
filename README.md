@@ -51,3 +51,7 @@ are open sourced and are available for public use.
 
 # Day 14: 3-Dimensional
 ![Day_14_3D](https://user-images.githubusercontent.com/105609020/169418501-447fbf75-368f-43f3-a6e7-0ae1bd9f0f12.PNG)
+
+# Day 15: Multivariate
+![Day_15_Multivariate](https://user-images.githubusercontent.com/105609020/169419942-9e4423e1-c3e8-421c-bb81-51df31a6a637.png)
+
