@@ -49,3 +49,5 @@ are open sourced and are available for public use.
 # Day 13: Correlation
 ![Day_13_Correlation](https://user-images.githubusercontent.com/105609020/169417819-9a997713-9626-471c-94cb-f93f91be767e.png)
 
+# Day 14: 3-Dimensional
+![Day_14_3D](https://user-images.githubusercontent.com/105609020/169418501-447fbf75-368f-43f3-a6e7-0ae1bd9f0f12.PNG)
