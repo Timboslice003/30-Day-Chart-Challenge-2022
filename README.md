@@ -57,3 +57,7 @@ are open sourced and are available for public use.
 
 # Day 16: Environment
 ![Day_16_Environment](https://user-images.githubusercontent.com/105609020/169421532-49fa4e4f-baa5-4230-a3bc-e251038cd4f1.png)
+
+# Day 17: Connections
+![Day_17_Connections](https://user-images.githubusercontent.com/105609020/169424558-349594d2-db2c-4fbf-9bf3-105cfb3519f6.png)
+
