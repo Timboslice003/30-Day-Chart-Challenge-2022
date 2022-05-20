@@ -64,4 +64,6 @@ are open sourced and are available for public use.
 # Day 18: Data Day
 ![Day_18_Data_Day](https://user-images.githubusercontent.com/105609020/169620788-bdc849c0-b815-4fe4-b1a3-f24b65f9f418.png)
 
+# Day 19: Global Change
+![Day_19_Global_Change](https://user-images.githubusercontent.com/105609020/169625824-0f257751-4f48-4c71-b019-d1a71e9bcf81.png)
 
