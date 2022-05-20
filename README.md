@@ -61,3 +61,6 @@ are open sourced and are available for public use.
 # Day 17: Connections
 ![Day_17_Connections](https://user-images.githubusercontent.com/105609020/169424558-349594d2-db2c-4fbf-9bf3-105cfb3519f6.png)
 
+# Day 18: Data Day
+![Day_18_Data_Day](https://user-images.githubusercontent.com/105609020/169620711-caa33de0-1efb-4464-b912-d7966dc0d53c.png)
+
