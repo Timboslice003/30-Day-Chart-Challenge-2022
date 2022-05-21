@@ -1,6 +1,5 @@
 library(ggplot2)
 library(tidyverse)
-library(countrycode)
 library(ggimage)
 
 #Load Data and clean, add colors for countries
