@@ -67,3 +67,5 @@ are open sourced and are available for public use.
 # Day 19: Global Change
 ![Day_19_Global_Change](https://user-images.githubusercontent.com/105609020/169625824-0f257751-4f48-4c71-b019-d1a71e9bcf81.png)
 
+# Day 20: New Tool
+![Day_20_New_Tool](https://user-images.githubusercontent.com/105609020/169628171-efa051f7-4ebe-403d-a190-7b1908c0aa41.gif)
