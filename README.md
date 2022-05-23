@@ -78,3 +78,6 @@ are open sourced and are available for public use.
 
 # Day 23: Tiles
 ![Day_23_Tiles](https://user-images.githubusercontent.com/105609020/169914614-b5c363ca-a253-4f8f-8e05-da261df46c65.png)
+
+# Day 24: Theme Day
+![Day_24_Theme_Day](https://user-images.githubusercontent.com/105609020/169915752-4150f86c-b99f-4b78-9424-77075982812f.png)
