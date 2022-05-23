@@ -70,4 +70,6 @@ are open sourced and are available for public use.
 # Day 20: New Tool
 ![Day_20_New_Tool](https://user-images.githubusercontent.com/105609020/169746560-c9ed8e29-cad1-4a77-9ef1-6af7dcb7b7da.gif)
 
-# Day 21: 
+# Day 21: Down/Upwards
+![Day_21_Down_Up](https://user-images.githubusercontent.com/105609020/169750916-c623eba1-7d7d-4bab-81f7-1b2ff37eb610.png)
+
