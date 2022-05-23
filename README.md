@@ -73,3 +73,6 @@ are open sourced and are available for public use.
 # Day 21: Down/Upwards
 ![Day_21_Down_Up](https://user-images.githubusercontent.com/105609020/169750916-c623eba1-7d7d-4bab-81f7-1b2ff37eb610.png)
 
+# Day 22: Animation
+![Day_22_Animation](https://user-images.githubusercontent.com/105609020/169913169-02313f99-01de-41bc-b8ed-8b45d93d25d1.gif)
+
