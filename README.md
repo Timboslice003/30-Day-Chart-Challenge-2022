@@ -81,3 +81,6 @@ are open sourced and are available for public use.
 
 # Day 24: Theme Day
 ![Day_24_Theme_Day](https://user-images.githubusercontent.com/105609020/169915752-4150f86c-b99f-4b78-9424-77075982812f.png)
+
+# Day 25: Trend
+![Day_25_Trend](https://user-images.githubusercontent.com/105609020/169920873-2a46a357-599c-4012-8762-00d931de98c8.png)
