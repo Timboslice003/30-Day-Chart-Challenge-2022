@@ -11,21 +11,48 @@ walkthrough on how to use it on their website. All of the rest
 are open sourced and are available for public use.
 
 # Day 1: Part to Whole
+Having a good starting QB on their rookie contract, 
+allowing teams flexibility to spend money elsewhere, 
+has shown to be a huge advantage. Tom Brady is good, too.\
+\
 ![Day_1_Part_to_Whole](https://user-images.githubusercontent.com/105609020/168524799-d84db03d-09b9-4627-8209-579ae313e27f.png)
 
 # Day 2: Pictogram
+The Patriots and Steelers are tied with the most 
+Super Bowl wins. A handful of franchises are
+still searching for their first one.\
+\
 ![Day_2_Pictogram](https://user-images.githubusercontent.com/105609020/168520504-4f15320e-2009-4491-93c8-2a8204a1a299.png)
 
 # Day 3: Historical
+NFL games have been higher scoring in recent years
+, but surprisingly not by much.\
+\
 ![Day_3_Historical](https://user-images.githubusercontent.com/105609020/168522040-208002a8-7515-419e-8b6e-e06b3514f99e.png)
 
 # Day 4: Flora
+Here is every NFL playoff match up since 2010. I chose
+2010 so every team would be represented at least
+once. One interesting finding here is the most common matchup has been San
+Francisco vs Green Bay, and the 49ers have won all 4 games! \
+\
 ![Day_4_Flora](https://user-images.githubusercontent.com/105609020/168523412-e176c871-ca24-4958-8936-562533c6000d.png)
 
 # Day 5: Slope
+While ideally a team has an efficient run game 
+and pass game, being able to pass the ball is 
+more important when it comes to winning games. 
+As you can see, the correlation between winning
+and a team's passing offense is stronger than winning
+and their rushing offense. \
+\
 ![Day_5_Slope](https://user-images.githubusercontent.com/105609020/168697682-5981f0fa-aedc-4c9b-a031-218a88ad84dd.png)
 
 # Day 6: Data Day
+The data does not lie. The Miami Dolphins 
+are the only team in NFL history to complete
+an undefeated season. \
+\
 ![Day_6_Data_Day](https://user-images.githubusercontent.com/105609020/168701812-718e6e68-aa06-43d0-b620-4cae5f225500.png)
 
 # Day 7: Physical
