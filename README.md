@@ -146,18 +146,26 @@ In the last 20 years, the NFL has become more pass oriented. Last season, over h
 ![Day_25_Trend](https://user-images.githubusercontent.com/105609020/169920873-2a46a357-599c-4012-8762-00d931de98c8.png)
 
 # Day 26: Interactive
-With my first Shiny creation, I took the win probabilty charts figure from **Day 23: Tiles8* and applied it to every FBS team. Just select from a dropdown which team's schedule you would like to view. Try it yourself! [Go to Shiny App](https://timboslice003.shinyapps.io/2021_FBS_WP_Charts/?_ga=2.130225871.1999643618.1653349834-2138458318.1652158620) \
+With my first Shiny creation, I took the win probabilty charts figure from **Day 23: Tiles** and applied it to every FBS team. Just select from a dropdown which team's schedule you would like to view. Try it yourself! [Go to Shiny App](https://timboslice003.shinyapps.io/2021_FBS_WP_Charts/?_ga=2.130225871.1999643618.1653349834-2138458318.1652158620) \
+\
 Here is an example using Arizona State:
 ![Day_26_Interactive](https://user-images.githubusercontent.com/105609020/169922248-0c4b0f9a-6529-4136-a31d-b5016a266b6d.PNG)
 
 # Day 27: Future
+With no Power-5 out of conference games and 7 home games, Oregon State has a favorable future schedule, yet their preseason win total is currently at 5.5 by betting markets.\
+\
 ![Day_27_Future](https://user-images.githubusercontent.com/105609020/169925842-3778f738-f567-479e-93bc-cab61645c819.png)
 
 # Day 28: Deviations
+Thank you to @mrcaseb for the historical betting lines. Overall, Vegas is pretty good at predicting a team's season win total./
+/
 ![Day_28_Deviations](https://user-images.githubusercontent.com/105609020/169925852-8733191c-61db-46fe-8b0d-a90828e148ef.png)
 
 # Day 29: Story Telling
+The Los Angeles Rams were seen as a possible Super Bowl contender all year. What was unexpected was them meeting the Cincinnati Bengals in the big game.\
+\
 ![Day_29_Story_Telling](https://user-images.githubusercontent.com/105609020/169925869-7d5308f9-733f-41aa-9afa-a0cb4ffd853a.png)
 
 # Day 30: Data Day
+According to PFF receiving grades, these are the best WRs from the 2021 NFL season.
 ![Day_30_Data_Day](https://user-images.githubusercontent.com/105609020/169925880-6633785b-ab70-4ed8-abcd-e4f9204a6546.png)
