@@ -86,7 +86,7 @@ are open sourced and are available for public use.
 ![Day_25_Trend](https://user-images.githubusercontent.com/105609020/169920873-2a46a357-599c-4012-8762-00d931de98c8.png)
 
 # Day 26: Interactive
-URL: https://timboslice003.shinyapps.io/2021_FBS_WP_Charts/?_ga=2.130225871.1999643618.1653349834-2138458318.1652158620
+Try it yourself! [Go to Shiny App](https://timboslice003.shinyapps.io/2021_FBS_WP_Charts/?_ga=2.130225871.1999643618.1653349834-2138458318.1652158620) \
 Example:
 ![Day_26_Interactive](https://user-images.githubusercontent.com/105609020/169922248-0c4b0f9a-6529-4136-a31d-b5016a266b6d.PNG)
 
