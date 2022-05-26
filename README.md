@@ -131,20 +131,23 @@ Using gganimate again, here is how each NFL team has done in the playoffs since 
 ![Day_22_Animation](https://user-images.githubusercontent.com/105609020/169913169-02313f99-01de-41bc-b8ed-8b45d93d25d1.gif)
 
 # Day 23: Tiles
-\Similar to Day 21, this is the win probabilty chart from each of Oregon State's 2021 games against FBS opponents.\
+Similar to Day 21, this is the win probabilty chart from each of Oregon State's 2021 games against FBS opponents.\
 \
 ![Day_23_Tiles](https://user-images.githubusercontent.com/105609020/169914614-b5c363ca-a253-4f8f-8e05-da261df46c65.png)
 
 # Day 24: Theme Day
-
+Tua Tagovailoa's career has not been what the Dolphins expected when they drafted him 5th overall in the 2019 draft. I compared his adjusted net yards per attempt (ANY/A), explained [here](http://insidethepylon.com/football-101/glossary-football-101/2016/01/08/itp-glossary-adjusted-net-yards-per-attempt/), with the first 30 career game with any QB to start a playoff game in the last 20 years. He has been about on par with how they all played early in their careers, and with the addition of Tyreek Hill, may be able to take the next step in his career.\
+\
 ![Day_24_Theme_Day](https://user-images.githubusercontent.com/105609020/169915752-4150f86c-b99f-4b78-9424-77075982812f.png)
 
 # Day 25: Trend
+In the last 20 years, the NFL has become more pass oriented. Last season, over half of all games had a pass rate of over 60%.\
+\
 ![Day_25_Trend](https://user-images.githubusercontent.com/105609020/169920873-2a46a357-599c-4012-8762-00d931de98c8.png)
 
 # Day 26: Interactive
-Try it yourself! [Go to Shiny App](https://timboslice003.shinyapps.io/2021_FBS_WP_Charts/?_ga=2.130225871.1999643618.1653349834-2138458318.1652158620) \
-Example:
+With my first Shiny creation, I took the win probabilty charts figure from **Day 23: Tiles8* and applied it to every FBS team. Just select from a dropdown which team's schedule you would like to view. Try it yourself! [Go to Shiny App](https://timboslice003.shinyapps.io/2021_FBS_WP_Charts/?_ga=2.130225871.1999643618.1653349834-2138458318.1652158620) \
+Here is an example using Arizona State:
 ![Day_26_Interactive](https://user-images.githubusercontent.com/105609020/169922248-0c4b0f9a-6529-4136-a31d-b5016a266b6d.PNG)
 
 # Day 27: Future
