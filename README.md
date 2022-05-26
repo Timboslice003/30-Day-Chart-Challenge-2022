@@ -2,8 +2,7 @@
 All code and outputs for the 2022 #30DayChartChallenge
 
 # Acknowledgements
-I used data from NFLverse, CFBfastR, Pro Football Reference,
-sportsoddshistory.com, Wikipedia, and Pro Football Focus.
+I used data from [NFLverse](https://github.com/nflverse), [CFBfastR](https://cfbfastr.sportsdataverse.org/), [Pro Football Reference](https://www.pro-football-reference.com/), [Sports Odds History](https://www.sportsoddshistory.com/), [Pro Football Focus](https://www.pff.com/), and Wikipedia.
 
 Pro Football Focus data requires a subscription and will not be
 shared. CFBfastR requires an API key (it's free) and there is a
@@ -65,15 +64,22 @@ Learn more about EPA [here](https://www.the33rdteam.com/epa-explained/). \
 ![Day_8_Mountains](https://user-images.githubusercontent.com/105609020/168701827-bcc1ed78-0369-446f-b20e-9ef4a246ebaa.png)
 
 # Day 9: Statistics
+The distribution of each NFL player's age in 2021 shows just how wild it is Tom Brady is still playing at the level he is. The next closest player (Rams LT Andrew Whitworth who has since retired) is over 4 years younger than him!
 ![Day_9_Statistics](https://user-images.githubusercontent.com/105609020/168735313-ab828741-251f-4ba7-b860-c7ed0980e2a7.png)
 
 # Day 10: Experimental
+Up until this point, all of the data has been from NFL sources. Here I experiment with a new package called CFBfastR to look at some college football data.\
+\
 ![Day_10_Experimental](https://user-images.githubusercontent.com/105609020/168734063-263f00ca-8577-4fd5-a1f1-fda1025c5e3d.png)
 
 # Day 11: Circular
+I took every team's offensive and defensive PFF grades from 2019 through 2021, and then broke those grades into tiers. When contrasting how often a team made the playoffs given their grade, it seems to show an elite offense (Tier 1) is the largest advantage in football. \
+\
 ![Day_11_Circular](https://user-images.githubusercontent.com/105609020/168735331-788f94c0-97d1-4481-a5ab-bf63aa7ec2e3.png)
 
 # Day 12: Theme Day
+Using The Economist classic theme, the following figure shows the history of Davante Adams' career. A WR receiving a new 5-year contract worht almost $30 Million per year going into his age 30 season is unprecedented. However, there is no sign of Adams slowing down. In fact, he just had arguably the best season of his career.\
+\
 ![Day_12_Theme_Day](https://user-images.githubusercontent.com/105609020/168737770-1e096a6a-7520-4b63-97de-56f3ca426d6f.png)
 
 # Day 13: Correlation
