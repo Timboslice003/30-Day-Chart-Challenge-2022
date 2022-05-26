@@ -64,7 +64,8 @@ Learn more about EPA [here](https://www.the33rdteam.com/epa-explained/). \
 ![Day_8_Mountains](https://user-images.githubusercontent.com/105609020/168701827-bcc1ed78-0369-446f-b20e-9ef4a246ebaa.png)
 
 # Day 9: Statistics
-The distribution of each NFL player's age in 2021 shows just how wild it is Tom Brady is still playing at the level he is. The next closest player (Rams LT Andrew Whitworth who has since retired) is over 4 years younger than him!
+The distribution of each NFL player's age in 2021 shows just how wild it is Tom Brady is still playing at the level he is. The next closest player (Rams LT Andrew Whitworth who has since retired) is over 4 years younger than him!\
+\
 ![Day_9_Statistics](https://user-images.githubusercontent.com/105609020/168735313-ab828741-251f-4ba7-b860-c7ed0980e2a7.png)
 
 # Day 10: Experimental
