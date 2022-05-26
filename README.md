@@ -56,6 +56,9 @@ an undefeated season. \
 ![Day_6_Data_Day](https://user-images.githubusercontent.com/105609020/168701812-718e6e68-aa06-43d0-b620-4cae5f225500.png)
 
 # Day 7: Physical
+Using two different metrics, Expected Points Added (EPA) and PFF Team Rushing Grades, here are the best rushing teams from the 2021 NFL season.\
+Learn more about EPA [here](https://www.the33rdteam.com/epa-explained/). \
+\
 ![Day_7_Physical](https://user-images.githubusercontent.com/105609020/168699971-d4ec32a8-6669-4b8a-aacf-2018628c0af0.png)
 
 # Day 8: Mountains
