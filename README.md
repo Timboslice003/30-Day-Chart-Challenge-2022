@@ -93,33 +93,50 @@ This is a recreated 3-D drawing of the football outside of Oregon State's Reser 
 ![Day_14_3D](https://user-images.githubusercontent.com/105609020/169418501-447fbf75-368f-43f3-a6e7-0ae1bd9f0f12.PNG)
 
 # Day 15: Multivariate
+Rookie players are always risky to draft in fantasy football, so if you are going to pick one, you'd be better off taking one drafted in the early rounds of the NFL Draft.\
+\
 ![Day_15_Multivariate](https://user-images.githubusercontent.com/105609020/169419942-9e4423e1-c3e8-421c-bb81-51df31a6a637.png)
 
 # Day 16: Environment
+When plotted on a map, it is much more apparent how few teams are on the west coast.\
+\
 ![Day_16_Environment](https://user-images.githubusercontent.com/105609020/169421532-49fa4e4f-baa5-4230-a3bc-e251038cd4f1.png)
 
 # Day 17: Connections
+It's amazing Peyton Manning shows up on this table with two different WRs. Also, had Big Ben and Antonio Brown stuck together a few more seasons, they would have had a chance to lead the group in all three categories.\
+\
 ![Day_17_Connections](https://user-images.githubusercontent.com/105609020/169424558-349594d2-db2c-4fbf-9bf3-105cfb3519f6.png)
 
 # Day 18: Data Day
+The term "Homerun Hitter" is often used as a metaphor for NFL RBs who break off long gains. These are the 10 RBs who gained the most yardage on breakaway runs last season. Some of the players are on here just because they received a lot of carries for the year. Others (Penny & Sanders) made the most out of their opportunities.\
+\
 ![Day_18_Data_Day](https://user-images.githubusercontent.com/105609020/169620788-bdc849c0-b815-4fe4-b1a3-f24b65f9f418.png)
 
 # Day 19: Global Change
 ![Day_19_Global_Change](https://user-images.githubusercontent.com/105609020/169625824-0f257751-4f48-4c71-b019-d1a71e9bcf81.png)
 
 # Day 20: New Tool
+Using a new tool called gganimate, I created this gif of the 2022 NFL Draft showing which conferences had the most players drafted as the picks occurred. Not a great year for the ACC, Pac-12, or Big-12.\
+\
 ![Day_20_New_Tool](https://user-images.githubusercontent.com/105609020/169746560-c9ed8e29-cad1-4a77-9ef1-6af7dcb7b7da.gif)
 
 # Day 21: Down/Upwards
+This is the win probability chart of the wild Chiefs-Bills playoff game. The swings in win probabiltity late in the game represents just how back and forth the end of the game was.\
+\
 ![Day_21_Down_Up](https://user-images.githubusercontent.com/105609020/169750916-c623eba1-7d7d-4bab-81f7-1b2ff37eb610.png)
 
 # Day 22: Animation
+Using gganimate again, here is how each NFL team has done in the playoffs since 2002, when the Texans became the 32nd NFL franchise.\
+\
 ![Day_22_Animation](https://user-images.githubusercontent.com/105609020/169913169-02313f99-01de-41bc-b8ed-8b45d93d25d1.gif)
 
 # Day 23: Tiles
+\Similar to Day 21, this is the win probabilty chart from each of Oregon State's 2021 games against FBS opponents.\
+\
 ![Day_23_Tiles](https://user-images.githubusercontent.com/105609020/169914614-b5c363ca-a253-4f8f-8e05-da261df46c65.png)
 
 # Day 24: Theme Day
+
 ![Day_24_Theme_Day](https://user-images.githubusercontent.com/105609020/169915752-4150f86c-b99f-4b78-9424-77075982812f.png)
 
 # Day 25: Trend
