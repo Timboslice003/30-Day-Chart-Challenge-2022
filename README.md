@@ -157,8 +157,8 @@ With no Power-5 out of conference games and 7 home games, Oregon State has a fav
 ![Day_27_Future](https://user-images.githubusercontent.com/105609020/169925842-3778f738-f567-479e-93bc-cab61645c819.png)
 
 # Day 28: Deviations
-Thank you to @mrcaseb for the historical betting lines. Overall, Vegas is pretty good at predicting a team's season win total./
-/
+Thank you to [@mrcaseb](https://github.com/mrcaseb) for the historical betting lines. Overall, Vegas is pretty good at predicting a team's season win total.\
+\
 ![Day_28_Deviations](https://user-images.githubusercontent.com/105609020/169925852-8733191c-61db-46fe-8b0d-a90828e148ef.png)
 
 # Day 29: Story Telling
@@ -167,5 +167,6 @@ The Los Angeles Rams were seen as a possible Super Bowl contender all year. What
 ![Day_29_Story_Telling](https://user-images.githubusercontent.com/105609020/169925869-7d5308f9-733f-41aa-9afa-a0cb4ffd853a.png)
 
 # Day 30: Data Day
-According to PFF receiving grades, these are the best WRs from the 2021 NFL season.
+According to PFF receiving grades, these are the best WRs from the 2021 NFL season.\
+\
 ![Day_30_Data_Day](https://user-images.githubusercontent.com/105609020/169925880-6633785b-ab70-4ed8-abcd-e4f9204a6546.png)
