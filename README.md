@@ -78,14 +78,18 @@ I took every team's offensive and defensive PFF grades from 2019 through 2021, a
 ![Day_11_Circular](https://user-images.githubusercontent.com/105609020/168735331-788f94c0-97d1-4481-a5ab-bf63aa7ec2e3.png)
 
 # Day 12: Theme Day
-Using The Economist classic theme, the following figure shows the history of Davante Adams' career. A WR receiving a new 5-year contract worht almost $30 Million per year going into his age 30 season is unprecedented. However, there is no sign of Adams slowing down. In fact, he just had arguably the best season of his career.\
+Using The Economist classic theme, the following figure shows the history of Davante Adams' career. A WR receiving a new 5-year contract, worth almost $30 Million per year, just before his age 30 season is unprecedented. However, there is no sign of Adams slowing down. In fact, he just had arguably the best season of his career.\
 \
 ![Day_12_Theme_Day](https://user-images.githubusercontent.com/105609020/168737770-1e096a6a-7520-4b63-97de-56f3ca426d6f.png)
 
 # Day 13: Correlation
+There is a very strong correlation between how many yards per reception a player gets and how far down the field he catches the ball for obvious reasons. Two clear outliers here are the Bengals' Ja'Marr Chase and the 49ers' Deebo Samuel, who are two of the best WRs at getting more yards once the ball is in their hands.\
+\
 ![Day_13_Correlation](https://user-images.githubusercontent.com/105609020/169417819-9a997713-9626-471c-94cb-f93f91be767e.png)
 
 # Day 14: 3-Dimensional
+This is a recreated 3-D drawing of the football outside of Oregon State's Reser Stadium. [Take a look](https://arcispanel.com/wp-content/uploads/Reser_stadium_front_entrance_panels.jpg) \
+\
 ![Day_14_3D](https://user-images.githubusercontent.com/105609020/169418501-447fbf75-368f-43f3-a6e7-0ae1bd9f0f12.PNG)
 
 # Day 15: Multivariate
