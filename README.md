@@ -1,6 +1,9 @@
 # 30-Day-Chart-Challenge-2022
 All code and outputs for the 2022 #30DayChartChallenge
 
+# Purpose
+Completing the 30 Day Chart Challenge was a learning experience for me. My goal was to use this opportunity to further my knowledge with creating data visualizations in R. The purpose of this project was to test my limits within R and experiment with new designs, color palettes, and themes. Many of the below graphics do not adhere to common design concepts nor were they intended to. 
+
 # Acknowledgements
 I used data from [NFLverse](https://github.com/nflverse), [CFBfastR](https://cfbfastr.sportsdataverse.org/), [Pro Football Reference](https://www.pro-football-reference.com/), [Sports Odds History](https://www.sportsoddshistory.com/), [Pro Football Focus](https://www.pff.com/), and Wikipedia.
 
